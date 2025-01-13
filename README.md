@@ -30,9 +30,8 @@ Etch-a-Sketch/
   - style.css        # Main stylesheet
 - scripts/           # Folder containing JavaScript
   - script.js        # App logic and interactivity
-- assets/            # Folder for images or other resources (if included)
+- assets/            # Folder for images or other resources
 - README.md          # Project documentation (this file)
-- LICENSE            # License for the project (if included)
 ```
 
 ## 🎯 Purpose
